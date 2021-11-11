@@ -1,0 +1,21 @@
+{
+  "name": "Bytebank",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante live na Twitch: https://www.twitch.tv/igorsromero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorsromero/Bytebank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/igorsromero/Bytebank/issues"
+  },
+  "homepage": "https://github.com/igorsromero/Bytebank#readme"
+}
